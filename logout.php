@@ -1,4 +1,6 @@
-<?php
+<?php   //Fix for logging out. 
+// session_start();
+// session_destroy(); was NOT working.
 // Initialize the session.
 // If you are using session_name("something"), don't forget it now!
 session_start();
