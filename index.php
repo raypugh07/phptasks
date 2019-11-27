@@ -185,6 +185,8 @@ require_once('authenticate.php');
 						<col />
 						<col />
 						<col />
+
+
 					</colgroup>
 					<thead>
 						<tr>
@@ -194,6 +196,7 @@ require_once('authenticate.php');
 							<th scope="col">Name</th>
 							<th scope="col">Description</th>
 							<th scope="col">Invitees</th>
+
 						</tr>
 					</thead>
 					<tbody>			
